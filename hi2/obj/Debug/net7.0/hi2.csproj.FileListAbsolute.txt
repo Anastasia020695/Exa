@@ -1,0 +1,14 @@
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\bin\Debug\net7.0\hi2.exe
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\bin\Debug\net7.0\hi2.deps.json
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\bin\Debug\net7.0\hi2.runtimeconfig.json
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\bin\Debug\net7.0\hi2.dll
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\bin\Debug\net7.0\hi2.pdb
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.AssemblyInfoInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.AssemblyInfo.cs
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.csproj.CoreCompileInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.dll
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\refint\hi2.dll
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.pdb
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\hi2.genruntimeconfig.cache
+C:\Users\missm\OneDrive\Рабочий стол\Exa\hi2\obj\Debug\net7.0\ref\hi2.dll
