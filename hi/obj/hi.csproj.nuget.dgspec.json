@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj": {}
+    "c:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj": {
+    "c:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj",
+        "projectUniqueName": "c:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj",
         "projectName": "hi",
-        "projectPath": "C:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj",
+        "projectPath": "c:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\hi.csproj",
         "packagesPath": "C:\\Users\\missm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\obj\\",
+        "outputPath": "c:\\Users\\missm\\OneDrive\\Рабочий стол\\Exa\\hi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\missm\\AppData\\Roaming\\NuGet\\NuGet.Config"
